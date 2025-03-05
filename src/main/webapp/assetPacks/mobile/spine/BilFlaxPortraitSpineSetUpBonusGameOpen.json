@@ -1,0 +1,95 @@
+{
+"skeleton": {
+	"hash": "A2IXBHVbHXORw+uK9wPBcF/kOmg",
+	"spine": "3.8.86",
+	"x": -451,
+	"y": -800,
+	"width": 902,
+	"height": 1601,
+	"images": "./skins/",
+	"audio": "/Volumes/creative/Resource su Filer/Art/Game Artwork/Norway_masters/touch_games/iPhone5/Bilflax2020/spineLayout/SpineCarIntro/../extras"
+},
+"bones": [
+	{ "name": "rootBonus" }
+],
+"slots": [
+	{ "name": "BonusFade", "bone": "rootBonus", "attachment": "BonusFade" },
+	{ "name": "BonusDiamondSmall", "bone": "rootBonus", "attachment": "BonusDiamondSmall" },
+	{ "name": "ButtonClose", "bone": "rootBonus", "attachment": "ButtonClose" },
+	{ "name": "BonusScratchFoil6", "bone": "rootBonus", "attachment": "BonusScratchFoil6" },
+	{ "name": "BonusScratchFoil5", "bone": "rootBonus", "attachment": "BonusScratchFoil5" },
+	{ "name": "BonusScratchFoil4", "bone": "rootBonus", "attachment": "BonusScratchFoil4" },
+	{ "name": "BonusScratchFoil3", "bone": "rootBonus", "attachment": "BonusScratchFoil3" },
+	{ "name": "BonusScratchFoil2", "bone": "rootBonus", "attachment": "BonusScratchFoil2" },
+	{ "name": "BonusScratchFoil1", "bone": "rootBonus", "attachment": "BonusScratchFoil1" }
+],
+"skins": [
+	{
+		"name": "imagesColour1",
+		"attachments": {
+			"BonusDiamondSmall": {
+				"BonusDiamondSmall": { "name": "imagesColour1/BonusDiamondSmall", "x": -0.5, "y": 220.5, "width": 799, "height": 811 }
+			},
+			"BonusFade": {
+				"BonusFade": { "name": "imagesColour1/BonusFade", "y": 0.5, "width": 902, "height": 1601 }
+			},
+			"BonusScratchFoil1": {
+				"BonusScratchFoil1": { "name": "imagesColour1/BonusScratchFoil1", "x": -284, "y": 316, "width": 260, "height": 134 }
+			},
+			"BonusScratchFoil2": {
+				"BonusScratchFoil2": { "name": "imagesColour1/BonusScratchFoil2", "x": -2, "y": 316, "width": 260, "height": 134 }
+			},
+			"BonusScratchFoil3": {
+				"BonusScratchFoil3": { "name": "imagesColour1/BonusScratchFoil3", "x": 276, "y": 316, "width": 260, "height": 134 }
+			},
+			"BonusScratchFoil4": {
+				"BonusScratchFoil4": { "name": "imagesColour1/BonusScratchFoil4", "x": -284, "y": 135, "width": 260, "height": 134 }
+			},
+			"BonusScratchFoil5": {
+				"BonusScratchFoil5": { "name": "imagesColour1/BonusScratchFoil5", "x": -2, "y": 135, "width": 260, "height": 134 }
+			},
+			"BonusScratchFoil6": {
+				"BonusScratchFoil6": { "name": "imagesColour1/BonusScratchFoil6", "x": 276, "y": 135, "width": 260, "height": 134 }
+			},
+			"ButtonClose": {
+				"ButtonClose": { "name": "imagesColour1/ButtonClose", "x": 373, "y": 459, "width": 66, "height": 66 }
+			}
+		}
+	},
+	{
+		"name": "imagesColour2",
+		"attachments": {
+			"BonusDiamondSmall": {
+				"BonusDiamondSmall": { "name": "imagesColour2/BonusDiamondSmall", "x": -0.5, "y": 220.5, "width": 799, "height": 811 }
+			},
+			"BonusFade": {
+				"BonusFade": { "name": "imagesColour2/BonusFade", "y": 0.5, "width": 902, "height": 1601 }
+			},
+			"BonusScratchFoil1": {
+				"BonusScratchFoil1": { "name": "imagesColour2/BonusScratchFoil1", "x": -284, "y": 316, "width": 262, "height": 134 }
+			},
+			"BonusScratchFoil2": {
+				"BonusScratchFoil2": { "name": "imagesColour2/BonusScratchFoil2", "x": -2, "y": 316, "width": 262, "height": 134 }
+			},
+			"BonusScratchFoil3": {
+				"BonusScratchFoil3": { "name": "imagesColour2/BonusScratchFoil3", "x": 276, "y": 316, "width": 262, "height": 134 }
+			},
+			"BonusScratchFoil4": {
+				"BonusScratchFoil4": { "name": "imagesColour2/BonusScratchFoil4", "x": -284, "y": 135, "width": 262, "height": 134 }
+			},
+			"BonusScratchFoil5": {
+				"BonusScratchFoil5": { "name": "imagesColour2/BonusScratchFoil5", "x": -2, "y": 135, "width": 262, "height": 134 }
+			},
+			"BonusScratchFoil6": {
+				"BonusScratchFoil6": { "name": "imagesColour2/BonusScratchFoil6", "x": 276, "y": 135, "width": 262, "height": 134 }
+			},
+			"ButtonClose": {
+				"ButtonClose": { "name": "imagesColour2/ButtonClose", "x": 373, "y": 459, "width": 66, "height": 66 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

@@ -1,0 +1,48 @@
+
+BilFlaxPortraitSpineSetUpWinPopUp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PopUpTextYouHaveWon
+  rotate: false
+  xy: 5, 837
+  size: 189, 63
+  orig: 189, 63
+  offset: 0, 0
+  index: -1
+buttonOk
+  rotate: false
+  xy: 2, 899
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+buttonResults
+  rotate: false
+  xy: 2, 899
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+prizeValueText
+  rotate: false
+  xy: 2, 899
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+congratulationsText
+  rotate: false
+  xy: 196, 801
+  size: 525, 99
+  orig: 525, 99
+  offset: 0, 0
+  index: -1
+diamondPopUpWin
+  rotate: false
+  xy: 2, 2
+  size: 797, 797
+  orig: 797, 797
+  offset: 0, 0
+  index: -1

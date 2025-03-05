@@ -1,0 +1,120 @@
+{
+"skeleton": {
+	"hash": "56aA+H2JrjYHrl59zqtA24l1fo8",
+	"spine": "3.8.84",
+	"x": -403,
+	"y": -179,
+	"width": 807,
+	"height": 815,
+	"images": "./images/",
+	"audio": "./../SpineCarIntro/"
+},
+"bones": [
+	{ "name": "rootLosePopUp" },
+	{ "name": "popUpLose", "parent": "rootLosePopUp", "y": 228, "color": "9b9b9b00" },
+	{ "name": "buttonResults", "parent": "rootLosePopUp", "x": -129.03, "y": -122.5 },
+	{ "name": "buttonOk", "parent": "rootLosePopUp", "x": 135.13, "y": -122.5 },
+	{ "name": "badLuckText", "parent": "rootLosePopUp", "x": 5.71, "y": 316.06, "color": "9b9b9b00" },
+	{ "name": "youHaveNotWonText", "parent": "rootLosePopUp", "y": 210.86 }
+],
+"slots": [
+	{ "name": "popUpLose", "bone": "popUpLose", "attachment": "PopUpNoWinDiamond" },
+	{ "name": "buttonResults", "bone": "buttonResults", "attachment": "buttonResults" },
+	{ "name": "buttonOk", "bone": "buttonOk", "attachment": "buttonOk" },
+	{ "name": "badLuckText", "bone": "badLuckText", "attachment": "PopUpTextBadLuck" },
+	{ "name": "youHaveNotWonText", "bone": "youHaveNotWonText", "attachment": "PopUpTextYouDidntWinThisTime" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"badLuckText": {
+				"PopUpTextBadLuck": { "x": 0.5, "y": 0.5, "width": 445, "height": 117 }
+			},
+			"buttonOk": {
+				"buttonOk": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
+			},
+			"buttonResults": {
+				"buttonResults": { "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
+			},
+			"popUpLose": {
+				"PopUpNoWinDiamond": { "x": 0.5, "y": 0.5, "width": 807, "height": 815 }
+			},
+			"youHaveNotWonText": {
+				"PopUpTextYouDidntWinThisTime": { "width": 598, "height": 62 }
+			}
+		}
+	}
+],
+"animations": {
+	"AnimationPopUp": {
+		"slots": {
+			"badLuckText": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 1.9333, "color": "ffffffff" }
+				]
+			},
+			"buttonOk": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"buttonResults": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"popUpLose": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 0.6667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			},
+			"youHaveNotWonText": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.8, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"popUpLose": {
+				"scale": [
+					{ "x": 0.5, "y": 0.5, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0.5, "y": 0.5, "curve": 1, "c3": 0.462, "c4": 1.6 },
+					{ "time": 2 }
+				]
+			},
+			"badLuckText": {
+				"translate": [
+					{ "x": -0.21, "y": -0.06 },
+					{ "time": 0.8, "y": -0.06, "curve": 1, "c3": 0.462, "c4": 1.6 },
+					{ "time": 2, "x": -0.01, "y": -0.06 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5 },
+					{ "time": 2 }
+				]
+			},
+			"youHaveNotWonText": {
+				"translate": [
+					{ "y": -0.86 }
+				],
+				"scale": [
+					{ "x": 0.5, "y": 0.5, "curve": "stepped" },
+					{ "time": 0.8, "x": 0.5, "y": 0.5 },
+					{ "time": 2 }
+				]
+			}
+		}
+	}
+}
+}

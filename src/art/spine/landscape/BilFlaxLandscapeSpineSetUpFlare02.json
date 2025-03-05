@@ -1,0 +1,61 @@
+{
+"skeleton": {
+	"hash": "LgpuVQRWTet044+qt8owPV4ICrI",
+	"spine": "3.8.84",
+	"x": -714,
+	"y": -701,
+	"width": 1429,
+	"height": 1403,
+	"images": "./images/",
+	"audio": "./../SpineCarIntro/"
+},
+"bones": [
+	{ "name": "rootCarPopUp" },
+	{ "name": "burst2", "parent": "rootCarPopUp" }
+],
+"slots": [
+	{ "name": "burst2", "bone": "burst2", "attachment": "burst2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"burst2": {
+				"burst2": { "x": 0.5, "y": 0.5, "width": 1429, "height": 1403 }
+			}
+		}
+	}
+],
+"animations": {
+	"animationFlare02Intro": {
+		"slots": {
+			"burst2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 3.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"burst2": {
+				"scale": [
+					{ "x": 0.5, "y": 0.5 },
+					{ "time": 3.3333 }
+				]
+			}
+		}
+	},
+	"animationFlare02Spin": {
+		"bones": {
+			"burst2": {
+				"rotate": [
+					{},
+					{ "time": 3.3333, "angle": 120 },
+					{ "time": 6.6667, "angle": -120 },
+					{ "time": 10 }
+				]
+			}
+		}
+	}
+}
+}

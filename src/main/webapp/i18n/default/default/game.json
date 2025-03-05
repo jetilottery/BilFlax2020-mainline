@@ -1,0 +1,114 @@
+{
+	"version":"",
+	"Paytable": {
+		"RTPvalue": "",
+		"RTPrange": "",
+		"paybackTitle": "",
+		"paybackBody": "",
+		"subheading": "",
+		"prizeLevel": "",
+		"description": "",
+		"prizeValue": "",
+		"descriptionText1": "",
+		"descriptionText2": ""
+	},
+	"title": "MillionFlax 2020",
+	"MenuCommand": {
+		"price": "Pris",
+		"stake": "Innsats",
+		"howToPlay": "Hjelp",
+		"paytable": "Gevinsttabell",
+		"close": "Lukk",
+		"audio": {
+			"sound": "Lyd",
+			"on": "På",
+			"off": "Av"
+		}
+	},
+	"Error": {
+		"errorCodePrefix": "Feil: ",
+		"genericErrorText": "En intern feil har oppstått. AVSLUTT og start spillet på nytt."
+	},
+	"Game": {
+		"ticketSelect_ticketCost": "",
+		"ticketCostPrefix": {
+			"BUY": "",
+			"TRY": " "
+		},
+		"footer_win": {
+			"BUY": "",
+			"TRY": ""
+		},
+		"footer_winPrefix": {
+			"BUY": "",
+			"TRY": " "
+		},
+		"footer_balance": "",
+		"footer_ticketCost": "",
+		"button_continue": "",
+		"button_moveToMoney": "",
+		"button_autoPlay": "",
+		"button_stop": "",
+		"button_playAgain":{
+			"BUY": "OK",
+			"TRY": "OK"
+		},
+		"balanceMeter": "Saldo: ",
+		"button_buy": "Kjøp",
+		"button_try": "Prøvespill",
+
+		"button_scratchAll": "Skrap alt",
+		"scratchAllMessage": "Du er i ferd med å skrape alle fire spill.\nØnsker du å fortsette?",
+		"button_yes": "Ja",
+		"button_no": "Nei",
+
+		"button_viewResult": "Vis resultat",
+		"button_ok": "OK",
+		"button_exit": "AVSLUTT",
+
+		"congratulationsRP": "Gratulerer!",
+		"youWinRP": "Du vant",
+		"sorryRP" : "Beklager",
+		"nextTimeRP": "Du vant ikke\ndenne gangen",
+
+		"infoTitle": "INFORMASJON",
+		"helpTitle0": "Slik spiller du",
+		"helpTitle1": "Slik skraper du",
+		"help0_landscape": "Skrap frem tre like beløp og du vinner beløpet.\nSkrap frem tre like            og du vinner BMW X5.\nBONUS: Skrap frem tre like beløp og du vinner beløpet.\n\n«Kjøregleden i helt nye BMW X5 kjenner ingen grenser, har en forbilledlig arbeidsmoral og er alltid to skritt foran!»\n\nVerdi premie ca: 1 110 000,-\n\nNB: Bildet av bilen er et illustrasjonsfoto. Flax-lodd som kjøpes hos kommisjonær er trykt opp i opplag og er et forhåndstrukket lotteri. Spillene i den digitale porteføljen tilbys i form av en umiddelbar trekning,\nslik at sannsynligheten for å vinne er den samme hver gang.",
+		"help0_portrait": "Skrap frem tre like beløp og du vinner beløpet. Skrap frem tre like            og du vinner BMW X5.\nBONUS: Skrap frem tre like beløp og du vinner beløpet.\n\n«Kjøregleden i helt nye BMW X5 kjenner ingen grenser, har en forbilledlig arbeidsmoral og er alltid to skritt foran!»\n\nVerdi premie ca: 1 110 000,-\n\nNB: Bildet av bilen er et illustrasjonsfoto. Flax-lodd som kjøpes hos kommisjonær er trykt opp i opplag og er et forhåndstrukket lotteri. Spillene i den digitale porteføljen tilbys i form av en umiddelbar trekning, slik at sannsynligheten for å vinne er den samme hver gang.",
+		"help1_landscape": "Du kan velge skrapeverktøy øverst på loddet. Mynt er standard skrapeverktøy hvis du ikke ønsker å endre.\nSkrap ved å holde venstre museknapp nede og beveg skrapeverktøyet over skrapefeltene. Du kan også klikke på skrapefeltene for å avdekke beløpene. Ønsker du å avdekke alle beløpene, velg «Skrap alt» nederst på loddet.",
+		"help1_portrait": "Skrap ved å sveipe fingeren over skrapefeltene. Du kan også trykke på skrapefeltene for å avdekke beløpene.\nØnsker du å avdekke hele loddet, trykk på «Skrap alt».",
+
+		"payTableTitle": "Premieoversikt",
+		"payTableHeader0": "Premie",
+		"payTableHeader1": "Vinnersannsynlighet",
+
+		"payTableP7": "25,-",
+		"payTableP6": "50,-",
+		"payTableP5": "100,-",
+		"payTableP4": "200,-",
+		"payTableP3": "500,-",
+		"payTableP2": "1 000,-",
+		"payTableP1": "10 000,-",
+		"payTableP0": "",
+
+		"payTableV7": "1: 6,58",
+		"payTableV6": "1: 10,95",
+		"payTableV5": "1: 40",
+		"payTableV4": "1: 587",
+		"payTableV3": "1: 1 158",
+		"payTableV2": "1: 15 627",
+		"payTableV1": "1: 125 010",
+		"payTableV0": "1: 312 525",
+
+		"odds0": "Vinnersannsynlighet: 1: 3,68",
+		"odds1": "Premieandel: 60,04%",
+		"odds2": "Regulert som eSkrapespill",
+
+		"button_back": "Tilbake",
+		"button_hint": "Hint",
+
+		"ticketCost": "25,-"
+	}
+}
+

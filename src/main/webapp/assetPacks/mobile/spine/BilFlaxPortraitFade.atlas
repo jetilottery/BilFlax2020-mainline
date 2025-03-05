@@ -1,0 +1,13 @@
+
+BilFlaxPortraitFade.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BonusFade
+  rotate: false
+  xy: 2, 2
+  size: 902, 1601
+  orig: 902, 1601
+  offset: 0, 0
+  index: -1

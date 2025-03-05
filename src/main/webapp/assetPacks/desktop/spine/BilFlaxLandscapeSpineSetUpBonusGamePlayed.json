@@ -1,0 +1,51 @@
+{
+"skeleton": {
+	"hash": "l+NdqADWzCUTsxvls7woWVITjtQ",
+	"spine": "3.8.86",
+	"x": -345.59,
+	"y": -163.75,
+	"width": 224,
+	"height": 76.21,
+	"images": "../MASTERS/SpineMainGameLayout_MASTER/images/",
+	"audio": "/Volumes/creative/Resource su Filer/Art/Game Artwork/Norway_masters/touch_games/iPhone5/Bilflax2020/spineLayout/SpineCarIntro/./../extras"
+},
+"bones": [
+	{ "name": "rootBonus" }
+],
+"slots": [
+	{ "name": "BonusGameBaseResultsLose6", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose6" },
+	{ "name": "BonusGameBaseResultsLose5", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose5" },
+	{ "name": "BonusGameBaseResultsLose4", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose4" },
+	{ "name": "BonusGameBaseResultsLose3", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose3" },
+	{ "name": "BonusGameBaseResultsLose2", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose2" },
+	{ "name": "BonusGameBaseResultsLose1", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BonusGameBaseResultsLose1": {
+				"BonusGameBaseResultsLose1": { "x": -309.59, "y": -106.29, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose2": {
+				"BonusGameBaseResultsLose2": { "x": -233.59, "y": -106.29, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose3": {
+				"BonusGameBaseResultsLose3": { "x": -157.59, "y": -106.29, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose4": {
+				"BonusGameBaseResultsLose4": { "x": -309.59, "y": -145, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose5": {
+				"BonusGameBaseResultsLose5": { "x": -233.59, "y": -145, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose6": {
+				"BonusGameBaseResultsLose6": { "x": -157.59, "y": -145, "scaleX": 0.5, "scaleY": 0.5, "width": 144, "height": 75 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

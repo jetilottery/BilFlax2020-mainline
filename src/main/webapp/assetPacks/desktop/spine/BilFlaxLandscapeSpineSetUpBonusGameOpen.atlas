@@ -1,0 +1,132 @@
+
+BilFlaxLandscapeSpineSetUpBonusGameOpen.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesColour1/BonusDiamondSmall
+  rotate: true
+  xy: 2, 2
+  size: 799, 811
+  orig: 799, 811
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusDiamondSmall
+  rotate: true
+  xy: 2, 2
+  size: 799, 811
+  orig: 799, 811
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil1
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil2
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil3
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil4
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil5
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusScratchFoil6
+  rotate: true
+  xy: 1617, 277
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/ButtonClose
+  rotate: false
+  xy: 1617, 209
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+imagesColour2/ButtonClose
+  rotate: false
+  xy: 1617, 209
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusFadeLandscape
+  rotate: false
+  xy: 815, 201
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+imagesColour1/BonusFadeLandscape
+  rotate: false
+  xy: 815, 201
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil1
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil2
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil3
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil4
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil5
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/BonusScratchFoil6
+  rotate: true
+  xy: 1617, 539
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1

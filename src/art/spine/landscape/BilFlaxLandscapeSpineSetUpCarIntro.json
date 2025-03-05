@@ -1,0 +1,967 @@
+{
+"skeleton": {
+	"hash": "yo2lGxJV+QEwbGp8wjpsLiAm+I0",
+	"spine": "3.8.86",
+	"x": -420.73,
+	"y": -300,
+	"width": 821.72,
+	"height": 600,
+	"images": "./skins/",
+	"audio": "/Volumes/creative/Resource su Filer/Art/Game Artwork/Norway_masters/touch_games/iPhone5/Bilflax2020/spineLayout/SpineCarIntro"
+},
+"bones": [
+	{ "name": "rootCarIntro" },
+	{ "name": "BilFlax2020WheelFront", "parent": "rootCarIntro", "x": 182.33, "y": -134.4, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "BilFlax2020WheelRear", "parent": "rootCarIntro", "x": 356.93, "y": -114.55, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "carBase", "parent": "rootCarIntro", "x": 198.23, "y": -88.32, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "PriceDiamond", "parent": "rootCarIntro", "x": -182.77, "y": -126.47, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "skrapHerMainGameText", "parent": "rootCarIntro", "x": 37.78, "y": 107.23, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "skrapHerBonusTextClosed", "parent": "rootCarIntro", "x": -101.41, "y": -123.44, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "bonusTitleClosed", "parent": "rootCarIntro", "x": -228, "y": -123.58, "scaleX": 0.5, "scaleY": 0.5 },
+	{
+		"name": "bonusPanelClosed",
+		"parent": "rootCarIntro",
+		"x": -238.33,
+		"y": -126.22,
+		"scaleX": 0.53,
+		"scaleY": 0.53,
+		"shearX": -180
+	},
+	{ "name": "PurchaseGame", "parent": "rootCarIntro" },
+	{ "name": "MainGameScratchFoil9", "parent": "rootCarIntro", "x": -39, "y": -7, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil8", "parent": "rootCarIntro", "x": -180, "y": -7, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil7", "parent": "rootCarIntro", "x": -322, "y": -7, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil6", "parent": "rootCarIntro", "x": -39, "y": 72, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil5", "parent": "rootCarIntro", "x": -180, "y": 72, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil4", "parent": "rootCarIntro", "x": -322, "y": 72, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil3", "parent": "rootCarIntro", "x": -39, "y": 152, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil2", "parent": "rootCarIntro", "x": -180, "y": 152, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "MainGameScratchFoil1", "parent": "rootCarIntro", "x": -322, "y": 152, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "GameTitle", "parent": "rootCarIntro", "x": 244.12, "y": 161.3, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "buttonBase", "parent": "rootCarIntro", "y": -211.33 },
+	{ "name": "logoFlaxWhite", "parent": "rootCarIntro", "x": -304.4, "y": 260.75, "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "BackdropDiamondLandscape", "parent": "rootCarIntro", "x": -95 },
+	{ "name": "BackdropBaseColourLandscape", "parent": "rootCarIntro" },
+	{ "name": "PriceText", "parent": "rootCarIntro", "x": -184.37, "y": -126 }
+],
+"slots": [
+	{ "name": "BackdropBaseColourLandscape", "bone": "BackdropBaseColourLandscape", "attachment": "BackdropBaseColourLandscape" },
+	{ "name": "BackdropDiamondLandscape", "bone": "BackdropDiamondLandscape", "attachment": "BackdropDiamondLandscape" },
+	{ "name": "MainGameScratchFoil1", "bone": "MainGameScratchFoil1", "attachment": "MainGameScratchFoil1" },
+	{ "name": "MainGameScratchFoil2", "bone": "MainGameScratchFoil2", "attachment": "MainGameScratchFoil2" },
+	{ "name": "MainGameScratchFoil3", "bone": "MainGameScratchFoil3", "attachment": "MainGameScratchFoil3" },
+	{ "name": "MainGameScratchFoil4", "bone": "MainGameScratchFoil4", "attachment": "MainGameScratchFoil4" },
+	{ "name": "MainGameScratchFoil5", "bone": "MainGameScratchFoil5", "attachment": "MainGameScratchFoil5" },
+	{ "name": "MainGameScratchFoil6", "bone": "MainGameScratchFoil6", "attachment": "MainGameScratchFoil6" },
+	{ "name": "MainGameScratchFoil7", "bone": "MainGameScratchFoil7", "attachment": "MainGameScratchFoil7" },
+	{ "name": "MainGameScratchFoil8", "bone": "MainGameScratchFoil8", "attachment": "MainGameScratchFoil8" },
+	{ "name": "MainGameScratchFoil9", "bone": "MainGameScratchFoil9", "attachment": "MainGameScratchFoil9" },
+	{ "name": "carBase", "bone": "carBase", "attachment": "carBase" },
+	{ "name": "BilFlax2020WheelRear", "bone": "BilFlax2020WheelRear", "attachment": "BilFlax2020WheelRear0060" },
+	{ "name": "BilFlax2020WheelFront", "bone": "BilFlax2020WheelFront", "attachment": "BilFlax2020WheelFront0060" },
+	{ "name": "bonusPanelClosed", "bone": "bonusPanelClosed", "attachment": "bonusPanelClosed" },
+	{ "name": "bonusTitleClosed", "bone": "bonusTitleClosed", "attachment": "bonusTitleClosed" },
+	{ "name": "skrapHerBonusTextClosed", "bone": "skrapHerBonusTextClosed", "attachment": "skrapHerBonusTextClosed" },
+	{ "name": "skrapHerMainGameText", "bone": "skrapHerMainGameText", "attachment": "skrapHerMainGameText" },
+	{ "name": "PurchaseGameLandscape", "bone": "PurchaseGame", "attachment": "PurchaseGameLandscape" },
+	{ "name": "PriceDiamond", "bone": "PriceDiamond", "attachment": "PriceDiamond" },
+	{ "name": "PriceText", "bone": "PriceText", "attachment": "PriceText" },
+	{ "name": "GameTitle", "bone": "GameTitle", "attachment": "GameTitle" },
+	{ "name": "logoFlaxWhite", "bone": "logoFlaxWhite", "attachment": "logoFlaxWhite" },
+	{ "name": "buttonBase", "bone": "buttonBase", "attachment": "buttonText" }
+],
+"skins": [
+	{
+		"name": "imagesColour1",
+		"attachments": {
+			"BackdropBaseColourLandscape": {
+				"BackdropBaseColourLandscape": { "name": "imagesColour1/BackdropBaseColourLandscape", "width": 800, "height": 600 }
+			},
+			"BackdropDiamondLandscape": {
+				"BackdropDiamondLandscape": { "name": "imagesColour1/BackdropDiamondLandscape", "width": 610, "height": 600 }
+			},
+			"BilFlax2020WheelFront": {
+				"BilFlax2020WheelFront0001": { "path": "imagesColour1/BilFlax2020WheelFront0001", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0002": { "path": "imagesColour1/BilFlax2020WheelFront0002", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0003": { "path": "imagesColour1/BilFlax2020WheelFront0003", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0004": { "path": "imagesColour1/BilFlax2020WheelFront0004", "x": -1, "y": 1.5, "width": 88, "height": 127 },
+				"BilFlax2020WheelFront0005": { "path": "imagesColour1/BilFlax2020WheelFront0005", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0006": { "path": "imagesColour1/BilFlax2020WheelFront0006", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0007": { "path": "imagesColour1/BilFlax2020WheelFront0007", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0008": { "path": "imagesColour1/BilFlax2020WheelFront0008", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0009": { "path": "imagesColour1/BilFlax2020WheelFront0009", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0010": { "path": "imagesColour1/BilFlax2020WheelFront0010", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0011": { "path": "imagesColour1/BilFlax2020WheelFront0011", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0012": { "path": "imagesColour1/BilFlax2020WheelFront0012", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0013": { "path": "imagesColour1/BilFlax2020WheelFront0013", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0014": { "path": "imagesColour1/BilFlax2020WheelFront0014", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0015": { "path": "imagesColour1/BilFlax2020WheelFront0015", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0016": { "path": "imagesColour1/BilFlax2020WheelFront0016", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0017": { "path": "imagesColour1/BilFlax2020WheelFront0017", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0018": { "path": "imagesColour1/BilFlax2020WheelFront0018", "x": -0.5, "y": 2, "width": 89, "height": 124 },
+				"BilFlax2020WheelFront0019": { "path": "imagesColour1/BilFlax2020WheelFront0019", "x": -0.5, "y": 2, "width": 89, "height": 124 },
+				"BilFlax2020WheelFront0020": { "path": "imagesColour1/BilFlax2020WheelFront0020", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0021": { "path": "imagesColour1/BilFlax2020WheelFront0021", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0022": { "path": "imagesColour1/BilFlax2020WheelFront0022", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0023": { "path": "imagesColour1/BilFlax2020WheelFront0023", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0024": { "path": "imagesColour1/BilFlax2020WheelFront0024", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0025": { "path": "imagesColour1/BilFlax2020WheelFront0025", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0026": { "path": "imagesColour1/BilFlax2020WheelFront0026", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0027": { "path": "imagesColour1/BilFlax2020WheelFront0027", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0028": { "path": "imagesColour1/BilFlax2020WheelFront0028", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0029": { "path": "imagesColour1/BilFlax2020WheelFront0029", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0030": { "path": "imagesColour1/BilFlax2020WheelFront0030", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0031": { "path": "imagesColour1/BilFlax2020WheelFront0031", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0032": { "path": "imagesColour1/BilFlax2020WheelFront0032", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0033": { "path": "imagesColour1/BilFlax2020WheelFront0033", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0034": { "path": "imagesColour1/BilFlax2020WheelFront0034", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0035": { "path": "imagesColour1/BilFlax2020WheelFront0035", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0036": { "path": "imagesColour1/BilFlax2020WheelFront0036", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0037": { "path": "imagesColour1/BilFlax2020WheelFront0037", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0038": { "path": "imagesColour1/BilFlax2020WheelFront0038", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0039": { "path": "imagesColour1/BilFlax2020WheelFront0039", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0040": { "path": "imagesColour1/BilFlax2020WheelFront0040", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0041": { "path": "imagesColour1/BilFlax2020WheelFront0041", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0042": { "path": "imagesColour1/BilFlax2020WheelFront0042", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0043": { "path": "imagesColour1/BilFlax2020WheelFront0043", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0044": { "path": "imagesColour1/BilFlax2020WheelFront0044", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0045": { "path": "imagesColour1/BilFlax2020WheelFront0045", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0046": { "path": "imagesColour1/BilFlax2020WheelFront0046", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0047": { "path": "imagesColour1/BilFlax2020WheelFront0047", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0048": { "path": "imagesColour1/BilFlax2020WheelFront0048", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0049": { "path": "imagesColour1/BilFlax2020WheelFront0049", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0050": { "path": "imagesColour1/BilFlax2020WheelFront0050", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0051": { "path": "imagesColour1/BilFlax2020WheelFront0051", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0052": { "path": "imagesColour1/BilFlax2020WheelFront0052", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0053": { "path": "imagesColour1/BilFlax2020WheelFront0053", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0054": { "path": "imagesColour1/BilFlax2020WheelFront0054", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0055": { "path": "imagesColour1/BilFlax2020WheelFront0055", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0056": { "path": "imagesColour1/BilFlax2020WheelFront0056", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0057": { "path": "imagesColour1/BilFlax2020WheelFront0057", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0058": { "path": "imagesColour1/BilFlax2020WheelFront0058", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0059": { "path": "imagesColour1/BilFlax2020WheelFront0059", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0060": { "path": "imagesColour1/BilFlax2020WheelFront0060", "x": -0.5, "y": 2, "width": 89, "height": 126 }
+			},
+			"BilFlax2020WheelRear": {
+				"BilFlax2020WheelRear0001": { "path": "imagesColour1/BilFlax2020WheelRear0001", "x": -9.3, "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0002": { "path": "imagesColour1/BilFlax2020WheelRear0002", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0003": { "path": "imagesColour1/BilFlax2020WheelRear0003", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0004": { "path": "imagesColour1/BilFlax2020WheelRear0004", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0005": { "path": "imagesColour1/BilFlax2020WheelRear0005", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0006": { "path": "imagesColour1/BilFlax2020WheelRear0006", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0007": { "path": "imagesColour1/BilFlax2020WheelRear0007", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0008": { "path": "imagesColour1/BilFlax2020WheelRear0008", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0009": { "path": "imagesColour1/BilFlax2020WheelRear0009", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0010": { "path": "imagesColour1/BilFlax2020WheelRear0010", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0011": { "path": "imagesColour1/BilFlax2020WheelRear0011", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0012": { "path": "imagesColour1/BilFlax2020WheelRear0012", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0013": { "path": "imagesColour1/BilFlax2020WheelRear0013", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0014": { "path": "imagesColour1/BilFlax2020WheelRear0014", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0015": { "path": "imagesColour1/BilFlax2020WheelRear0015", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0016": { "path": "imagesColour1/BilFlax2020WheelRear0016", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0017": { "path": "imagesColour1/BilFlax2020WheelRear0017", "y": 0.5, "width": 54, "height": 100 },
+				"BilFlax2020WheelRear0018": { "path": "imagesColour1/BilFlax2020WheelRear0018", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0019": { "path": "imagesColour1/BilFlax2020WheelRear0019", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0020": { "path": "imagesColour1/BilFlax2020WheelRear0020", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0021": { "path": "imagesColour1/BilFlax2020WheelRear0021", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0022": { "path": "imagesColour1/BilFlax2020WheelRear0022", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0023": { "path": "imagesColour1/BilFlax2020WheelRear0023", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0024": { "path": "imagesColour1/BilFlax2020WheelRear0024", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0025": { "path": "imagesColour1/BilFlax2020WheelRear0025", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0026": { "path": "imagesColour1/BilFlax2020WheelRear0026", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0027": { "path": "imagesColour1/BilFlax2020WheelRear0027", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0028": { "path": "imagesColour1/BilFlax2020WheelRear0028", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0029": { "path": "imagesColour1/BilFlax2020WheelRear0029", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0030": { "path": "imagesColour1/BilFlax2020WheelRear0030", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0031": { "path": "imagesColour1/BilFlax2020WheelRear0031", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0032": { "path": "imagesColour1/BilFlax2020WheelRear0032", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0033": { "path": "imagesColour1/BilFlax2020WheelRear0033", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0034": { "path": "imagesColour1/BilFlax2020WheelRear0034", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0035": { "path": "imagesColour1/BilFlax2020WheelRear0035", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0036": { "path": "imagesColour1/BilFlax2020WheelRear0036", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0037": { "path": "imagesColour1/BilFlax2020WheelRear0037", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0038": { "path": "imagesColour1/BilFlax2020WheelRear0038", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0039": { "path": "imagesColour1/BilFlax2020WheelRear0039", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0040": { "path": "imagesColour1/BilFlax2020WheelRear0040", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0041": { "path": "imagesColour1/BilFlax2020WheelRear0041", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0042": { "path": "imagesColour1/BilFlax2020WheelRear0042", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0043": { "path": "imagesColour1/BilFlax2020WheelRear0043", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0044": { "path": "imagesColour1/BilFlax2020WheelRear0044", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0045": { "path": "imagesColour1/BilFlax2020WheelRear0045", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0046": { "path": "imagesColour1/BilFlax2020WheelRear0046", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0047": { "path": "imagesColour1/BilFlax2020WheelRear0047", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0048": { "path": "imagesColour1/BilFlax2020WheelRear0048", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0049": { "path": "imagesColour1/BilFlax2020WheelRear0049", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0050": { "path": "imagesColour1/BilFlax2020WheelRear0050", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0051": { "path": "imagesColour1/BilFlax2020WheelRear0051", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0052": { "path": "imagesColour1/BilFlax2020WheelRear0052", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0053": { "path": "imagesColour1/BilFlax2020WheelRear0053", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0054": { "path": "imagesColour1/BilFlax2020WheelRear0054", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0055": { "path": "imagesColour1/BilFlax2020WheelRear0055", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0056": { "path": "imagesColour1/BilFlax2020WheelRear0056", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0057": { "path": "imagesColour1/BilFlax2020WheelRear0057", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0058": { "path": "imagesColour1/BilFlax2020WheelRear0058", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0059": { "path": "imagesColour1/BilFlax2020WheelRear0059", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0060": { "path": "imagesColour1/BilFlax2020WheelRear0060", "y": 0.5, "width": 54, "height": 101 }
+			},
+			"GameTitle": {
+				"GameTitle": { "path": "imagesColour1/GameTitle", "x": -7.5, "y": -2.51, "width": 511, "height": 149 }
+			},
+			"MainGameScratchFoil1": {
+				"MainGameScratchFoil1": { "path": "imagesColour1/MainGameScratchFoil1", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil2": {
+				"MainGameScratchFoil2": { "path": "imagesColour1/MainGameScratchFoil2", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil3": {
+				"MainGameScratchFoil3": { "path": "imagesColour1/MainGameScratchFoil3", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil4": {
+				"MainGameScratchFoil4": { "path": "imagesColour1/MainGameScratchFoil4", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil5": {
+				"MainGameScratchFoil5": { "path": "imagesColour1/MainGameScratchFoil5", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil6": {
+				"MainGameScratchFoil6": { "path": "imagesColour1/MainGameScratchFoil6", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil7": {
+				"MainGameScratchFoil7": { "path": "imagesColour1/MainGameScratchFoil7", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil8": {
+				"MainGameScratchFoil8": { "path": "imagesColour1/MainGameScratchFoil8", "width": 260, "height": 134 }
+			},
+			"MainGameScratchFoil9": {
+				"MainGameScratchFoil9": { "path": "imagesColour1/MainGameScratchFoil9", "width": 260, "height": 134 }
+			},
+			"PriceDiamond": {
+				"PriceDiamond": { "path": "imagesColour1/PriceDiamond", "x": -2.12, "y": -2.43, "width": 161, "height": 162 }
+			},
+			"PriceText": {
+				"PriceText": { "path": "imagesColour1/PriceText", "width": 1, "height": 1 }
+			},
+			"PurchaseGameLandscape": {
+				"PurchaseGameLandscape": { "name": "imagesColour1/PurchaseGameLandscape", "x": 0.5, "y": 0.5, "width": 387, "height": 299 }
+			},
+			"bonusPanelClosed": {
+				"bonusPanelClosed": { "path": "imagesColour1/bonusPanelClosed", "x": -0.34, "y": -4.38, "width": 689, "height": 170 }
+			},
+			"bonusTitleClosed": {
+				"bonusTitleClosed": { "path": "imagesColour1/bonusTitleClosed", "x": -6.6, "y": 2.3, "width": 236, "height": 57 }
+			},
+			"buttonBase": {
+				"buttonText": { "path": "imagesColour1/buttonText", "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
+			},
+			"carBase": {
+				"carBase": { "path": "imagesColour1/carBase", "width": 811, "height": 397 }
+			},
+			"logoFlaxWhite": {
+				"logoFlaxWhite": { "path": "imagesColour1/logoFlaxWhite", "width": 284, "height": 79 }
+			},
+			"skrapHerBonusTextClosed": {
+				"skrapHerBonusTextClosed": { "path": "imagesColour1/skrapHerBonusTextClosed", "x": -1.2, "y": 1.4, "width": 79, "height": 57 }
+			},
+			"skrapHerMainGameText": {
+				"skrapHerMainGameText": { "path": "imagesColour1/skrapHerMainGameText", "x": -1.49, "width": 79, "height": 54 }
+			}
+		}
+	},
+	{
+		"name": "imagesColour2",
+		"attachments": {
+			"BackdropBaseColourLandscape": {
+				"BackdropBaseColourLandscape": { "name": "imagesColour2/BackdropBaseColourLandscape", "width": 800, "height": 600 }
+			},
+			"BackdropDiamondLandscape": {
+				"BackdropDiamondLandscape": { "name": "imagesColour2/BackdropDiamondLandscape", "width": 610, "height": 600 }
+			},
+			"BilFlax2020WheelFront": {
+				"BilFlax2020WheelFront0001": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0001", "path": "imagesColour2/BilFlax2020WheelFront0001", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0002": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0002", "path": "imagesColour2/BilFlax2020WheelFront0002", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0003": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0003", "path": "imagesColour2/BilFlax2020WheelFront0003", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0004": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0004", "path": "imagesColour2/BilFlax2020WheelFront0004", "x": -1, "y": 1.5, "width": 88, "height": 127 },
+				"BilFlax2020WheelFront0005": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0005", "path": "imagesColour2/BilFlax2020WheelFront0005", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0006": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0006", "path": "imagesColour2/BilFlax2020WheelFront0006", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0007": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0007", "path": "imagesColour2/BilFlax2020WheelFront0007", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0008": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0008", "path": "imagesColour2/BilFlax2020WheelFront0008", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0009": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0009", "path": "imagesColour2/BilFlax2020WheelFront0009", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0010": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0010", "path": "imagesColour2/BilFlax2020WheelFront0010", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0011": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0011", "path": "imagesColour2/BilFlax2020WheelFront0011", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0012": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0012", "path": "imagesColour2/BilFlax2020WheelFront0012", "x": -1, "y": 1.5, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0013": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0013", "path": "imagesColour2/BilFlax2020WheelFront0013", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0014": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0014", "path": "imagesColour2/BilFlax2020WheelFront0014", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0015": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0015", "path": "imagesColour2/BilFlax2020WheelFront0015", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0016": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0016", "path": "imagesColour2/BilFlax2020WheelFront0016", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0017": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0017", "path": "imagesColour2/BilFlax2020WheelFront0017", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0018": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0018", "path": "imagesColour2/BilFlax2020WheelFront0018", "x": -0.5, "y": 2, "width": 89, "height": 124 },
+				"BilFlax2020WheelFront0019": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0019", "path": "imagesColour2/BilFlax2020WheelFront0019", "x": -0.5, "y": 2, "width": 89, "height": 124 },
+				"BilFlax2020WheelFront0020": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0020", "path": "imagesColour2/BilFlax2020WheelFront0020", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0021": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0021", "path": "imagesColour2/BilFlax2020WheelFront0021", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0022": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0022", "path": "imagesColour2/BilFlax2020WheelFront0022", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0023": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0023", "path": "imagesColour2/BilFlax2020WheelFront0023", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0024": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0024", "path": "imagesColour2/BilFlax2020WheelFront0024", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0025": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0025", "path": "imagesColour2/BilFlax2020WheelFront0025", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0026": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0026", "path": "imagesColour2/BilFlax2020WheelFront0026", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0027": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0027", "path": "imagesColour2/BilFlax2020WheelFront0027", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0028": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0028", "path": "imagesColour2/BilFlax2020WheelFront0028", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0029": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0029", "path": "imagesColour2/BilFlax2020WheelFront0029", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0030": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0030", "path": "imagesColour2/BilFlax2020WheelFront0030", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0031": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0031", "path": "imagesColour2/BilFlax2020WheelFront0031", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0032": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0032", "path": "imagesColour2/BilFlax2020WheelFront0032", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0033": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0033", "path": "imagesColour2/BilFlax2020WheelFront0033", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0034": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0034", "path": "imagesColour2/BilFlax2020WheelFront0034", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0035": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0035", "path": "imagesColour2/BilFlax2020WheelFront0035", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0036": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0036", "path": "imagesColour2/BilFlax2020WheelFront0036", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0037": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0037", "path": "imagesColour2/BilFlax2020WheelFront0037", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0038": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0038", "path": "imagesColour2/BilFlax2020WheelFront0038", "x": -0.5, "y": 2, "width": 89, "height": 125 },
+				"BilFlax2020WheelFront0039": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0039", "path": "imagesColour2/BilFlax2020WheelFront0039", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0040": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0040", "path": "imagesColour2/BilFlax2020WheelFront0040", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0041": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0041", "path": "imagesColour2/BilFlax2020WheelFront0041", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0042": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0042", "path": "imagesColour2/BilFlax2020WheelFront0042", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0043": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0043", "path": "imagesColour2/BilFlax2020WheelFront0043", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0044": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0044", "path": "imagesColour2/BilFlax2020WheelFront0044", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0045": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0045", "path": "imagesColour2/BilFlax2020WheelFront0045", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0046": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0046", "path": "imagesColour2/BilFlax2020WheelFront0046", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0047": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0047", "path": "imagesColour2/BilFlax2020WheelFront0047", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0048": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0048", "path": "imagesColour2/BilFlax2020WheelFront0048", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0049": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0049", "path": "imagesColour2/BilFlax2020WheelFront0049", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0050": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0050", "path": "imagesColour2/BilFlax2020WheelFront0050", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0051": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0051", "path": "imagesColour2/BilFlax2020WheelFront0051", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0052": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0052", "path": "imagesColour2/BilFlax2020WheelFront0052", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0053": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0053", "path": "imagesColour2/BilFlax2020WheelFront0053", "x": -0.5, "y": 2, "width": 88, "height": 125 },
+				"BilFlax2020WheelFront0054": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0054", "path": "imagesColour2/BilFlax2020WheelFront0054", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0055": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0055", "path": "imagesColour2/BilFlax2020WheelFront0055", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0056": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0056", "path": "imagesColour2/BilFlax2020WheelFront0056", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0057": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0057", "path": "imagesColour2/BilFlax2020WheelFront0057", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0058": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0058", "path": "imagesColour2/BilFlax2020WheelFront0058", "x": -0.5, "y": 2, "width": 89, "height": 126 },
+				"BilFlax2020WheelFront0059": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0059", "path": "imagesColour2/BilFlax2020WheelFront0059", "x": -0.5, "y": 2, "width": 88, "height": 126 },
+				"BilFlax2020WheelFront0060": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelFront0060", "path": "imagesColour2/BilFlax2020WheelFront0060", "x": -0.5, "y": 2, "width": 89, "height": 126 }
+			},
+			"BilFlax2020WheelRear": {
+				"BilFlax2020WheelRear0001": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0001", "path": "imagesColour2/BilFlax2020WheelRear0001", "x": -9.3, "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0002": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0002", "path": "imagesColour2/BilFlax2020WheelRear0002", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0003": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0003", "path": "imagesColour2/BilFlax2020WheelRear0003", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0004": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0004", "path": "imagesColour2/BilFlax2020WheelRear0004", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0005": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0005", "path": "imagesColour2/BilFlax2020WheelRear0005", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0006": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0006", "path": "imagesColour2/BilFlax2020WheelRear0006", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0007": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0007", "path": "imagesColour2/BilFlax2020WheelRear0007", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0008": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0008", "path": "imagesColour2/BilFlax2020WheelRear0008", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0009": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0009", "path": "imagesColour2/BilFlax2020WheelRear0009", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0010": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0010", "path": "imagesColour2/BilFlax2020WheelRear0010", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0011": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0011", "path": "imagesColour2/BilFlax2020WheelRear0011", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0012": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0012", "path": "imagesColour2/BilFlax2020WheelRear0012", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0013": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0013", "path": "imagesColour2/BilFlax2020WheelRear0013", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0014": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0014", "path": "imagesColour2/BilFlax2020WheelRear0014", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0015": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0015", "path": "imagesColour2/BilFlax2020WheelRear0015", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0016": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0016", "path": "imagesColour2/BilFlax2020WheelRear0016", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0017": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0017", "path": "imagesColour2/BilFlax2020WheelRear0017", "y": 0.5, "width": 54, "height": 100 },
+				"BilFlax2020WheelRear0018": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0018", "path": "imagesColour2/BilFlax2020WheelRear0018", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0019": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0019", "path": "imagesColour2/BilFlax2020WheelRear0019", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0020": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0020", "path": "imagesColour2/BilFlax2020WheelRear0020", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0021": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0021", "path": "imagesColour2/BilFlax2020WheelRear0021", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0022": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0022", "path": "imagesColour2/BilFlax2020WheelRear0022", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0023": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0023", "path": "imagesColour2/BilFlax2020WheelRear0023", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0024": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0024", "path": "imagesColour2/BilFlax2020WheelRear0024", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0025": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0025", "path": "imagesColour2/BilFlax2020WheelRear0025", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0026": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0026", "path": "imagesColour2/BilFlax2020WheelRear0026", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0027": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0027", "path": "imagesColour2/BilFlax2020WheelRear0027", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0028": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0028", "path": "imagesColour2/BilFlax2020WheelRear0028", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0029": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0029", "path": "imagesColour2/BilFlax2020WheelRear0029", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0030": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0030", "path": "imagesColour2/BilFlax2020WheelRear0030", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0031": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0031", "path": "imagesColour2/BilFlax2020WheelRear0031", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0032": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0032", "path": "imagesColour2/BilFlax2020WheelRear0032", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0033": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0033", "path": "imagesColour2/BilFlax2020WheelRear0033", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0034": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0034", "path": "imagesColour2/BilFlax2020WheelRear0034", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0035": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0035", "path": "imagesColour2/BilFlax2020WheelRear0035", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0036": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0036", "path": "imagesColour2/BilFlax2020WheelRear0036", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0037": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0037", "path": "imagesColour2/BilFlax2020WheelRear0037", "y": 0.5, "width": 55, "height": 100 },
+				"BilFlax2020WheelRear0038": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0038", "path": "imagesColour2/BilFlax2020WheelRear0038", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0039": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0039", "path": "imagesColour2/BilFlax2020WheelRear0039", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0040": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0040", "path": "imagesColour2/BilFlax2020WheelRear0040", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0041": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0041", "path": "imagesColour2/BilFlax2020WheelRear0041", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0042": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0042", "path": "imagesColour2/BilFlax2020WheelRear0042", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0043": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0043", "path": "imagesColour2/BilFlax2020WheelRear0043", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0044": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0044", "path": "imagesColour2/BilFlax2020WheelRear0044", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0045": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0045", "path": "imagesColour2/BilFlax2020WheelRear0045", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0046": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0046", "path": "imagesColour2/BilFlax2020WheelRear0046", "y": 0.5, "width": 55, "height": 101 },
+				"BilFlax2020WheelRear0047": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0047", "path": "imagesColour2/BilFlax2020WheelRear0047", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0048": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0048", "path": "imagesColour2/BilFlax2020WheelRear0048", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0049": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0049", "path": "imagesColour2/BilFlax2020WheelRear0049", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0050": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0050", "path": "imagesColour2/BilFlax2020WheelRear0050", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0051": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0051", "path": "imagesColour2/BilFlax2020WheelRear0051", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0052": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0052", "path": "imagesColour2/BilFlax2020WheelRear0052", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0053": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0053", "path": "imagesColour2/BilFlax2020WheelRear0053", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0054": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0054", "path": "imagesColour2/BilFlax2020WheelRear0054", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0055": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0055", "path": "imagesColour2/BilFlax2020WheelRear0055", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0056": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0056", "path": "imagesColour2/BilFlax2020WheelRear0056", "y": 0.5, "width": 54, "height": 102 },
+				"BilFlax2020WheelRear0057": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0057", "path": "imagesColour2/BilFlax2020WheelRear0057", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0058": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0058", "path": "imagesColour2/BilFlax2020WheelRear0058", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0059": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0059", "path": "imagesColour2/BilFlax2020WheelRear0059", "y": 0.5, "width": 54, "height": 101 },
+				"BilFlax2020WheelRear0060": { "name": "imagesColour2/imagesColour2//BilFlax2020WheelRear0060", "path": "imagesColour2/BilFlax2020WheelRear0060", "y": 0.5, "width": 54, "height": 101 }
+			},
+			"GameTitle": {
+				"GameTitle": { "name": "imagesColour2/imagesColour2//GameTitle", "path": "imagesColour2/GameTitle", "x": -7.5, "y": -2.51, "width": 511, "height": 149 }
+			},
+			"MainGameScratchFoil1": {
+				"MainGameScratchFoil1": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil1", "path": "imagesColour2/MainGameScratchFoil1", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil2": {
+				"MainGameScratchFoil2": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil2", "path": "imagesColour2/MainGameScratchFoil2", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil3": {
+				"MainGameScratchFoil3": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil3", "path": "imagesColour2/MainGameScratchFoil3", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil4": {
+				"MainGameScratchFoil4": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil4", "path": "imagesColour2/MainGameScratchFoil4", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil5": {
+				"MainGameScratchFoil5": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil5", "path": "imagesColour2/MainGameScratchFoil5", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil6": {
+				"MainGameScratchFoil6": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil6", "path": "imagesColour2/MainGameScratchFoil6", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil7": {
+				"MainGameScratchFoil7": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil7", "path": "imagesColour2/MainGameScratchFoil7", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil8": {
+				"MainGameScratchFoil8": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil8", "path": "imagesColour2/MainGameScratchFoil8", "width": 262, "height": 134 }
+			},
+			"MainGameScratchFoil9": {
+				"MainGameScratchFoil9": { "name": "imagesColour2/imagesColour2//MainGameScratchFoil9", "path": "imagesColour2/MainGameScratchFoil9", "width": 262, "height": 134 }
+			},
+			"PriceDiamond": {
+				"PriceDiamond": { "name": "imagesColour2/imagesColour2//PriceDiamond", "path": "imagesColour2/PriceDiamond", "x": -2.12, "y": -1.76, "width": 161, "height": 162 }
+			},
+			"PriceText": {
+				"PriceText": { "name": "imagesColour2/imagesColour2//PriceText", "path": "imagesColour2/PriceText", "width": 1, "height": 1 }
+			},
+			"PurchaseGameLandscape": {
+				"PurchaseGameLandscape": { "name": "imagesColour2/PurchaseGameLandscape", "x": 0.5, "y": 0.5, "width": 387, "height": 299 }
+			},
+			"bonusPanelClosed": {
+				"bonusPanelClosed": { "name": "imagesColour2/imagesColour2//bonusPanelClosed", "path": "imagesColour2/bonusPanelClosed", "x": -0.34, "y": -4.38, "width": 689, "height": 170 }
+			},
+			"bonusTitleClosed": {
+				"bonusTitleClosed": { "name": "imagesColour2/imagesColour2//bonusTitleClosed", "path": "imagesColour2/bonusTitleClosed", "x": -6.6, "y": 2.3, "width": 236, "height": 57 }
+			},
+			"buttonBase": {
+				"buttonText": { "name": "imagesColour2/imagesColour2//buttonText", "path": "imagesColour2/buttonText", "x": 0.5, "y": 0.5, "width": 1, "height": 1 }
+			},
+			"carBase": {
+				"carBase": { "name": "imagesColour2/imagesColour2//carBase", "path": "imagesColour2/carBase", "width": 811, "height": 397 }
+			},
+			"logoFlaxWhite": {
+				"logoFlaxWhite": { "name": "imagesColour2/imagesColour2//logoFlaxWhite", "path": "imagesColour2/logoFlaxWhite", "width": 284, "height": 79 }
+			},
+			"skrapHerBonusTextClosed": {
+				"skrapHerBonusTextClosed": { "name": "imagesColour2/imagesColour2//skrapHerBonusTextClosed", "path": "imagesColour2/skrapHerBonusTextClosed", "x": -1.2, "y": 1.4, "width": 79, "height": 57 }
+			},
+			"skrapHerMainGameText": {
+				"skrapHerMainGameText": { "name": "imagesColour2/imagesColour2//skrapHerMainGameText", "path": "imagesColour2/skrapHerMainGameText", "x": -1.49, "width": 79, "height": 54 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {
+		"slots": {
+			"BilFlax2020WheelFront": {
+				"attachment": [
+					{ "time": 0.6667, "name": "BilFlax2020WheelFront0001" },
+					{ "time": 0.7333, "name": "BilFlax2020WheelFront0002" },
+					{ "time": 0.7667, "name": "BilFlax2020WheelFront0003" },
+					{ "time": 0.8, "name": "BilFlax2020WheelFront0004" },
+					{ "time": 0.8333, "name": "BilFlax2020WheelFront0005" },
+					{ "time": 0.8667, "name": "BilFlax2020WheelFront0006" },
+					{ "time": 0.9, "name": "BilFlax2020WheelFront0007" },
+					{ "time": 0.9333, "name": "BilFlax2020WheelFront0008" },
+					{ "time": 0.9667, "name": "BilFlax2020WheelFront0009" },
+					{ "time": 1, "name": "BilFlax2020WheelFront0010" },
+					{ "time": 1.0333, "name": "BilFlax2020WheelFront0011" },
+					{ "time": 1.0667, "name": "BilFlax2020WheelFront0012" },
+					{ "time": 1.1, "name": "BilFlax2020WheelFront0013" },
+					{ "time": 1.1333, "name": "BilFlax2020WheelFront0014" },
+					{ "time": 1.1667, "name": "BilFlax2020WheelFront0015" },
+					{ "time": 1.2, "name": "BilFlax2020WheelFront0016" },
+					{ "time": 1.2333, "name": "BilFlax2020WheelFront0017" },
+					{ "time": 1.2667, "name": "BilFlax2020WheelFront0018" },
+					{ "time": 1.3, "name": "BilFlax2020WheelFront0019" },
+					{ "time": 1.3333, "name": "BilFlax2020WheelFront0020" },
+					{ "time": 1.3667, "name": "BilFlax2020WheelFront0021" },
+					{ "time": 1.4, "name": "BilFlax2020WheelFront0022" },
+					{ "time": 1.4333, "name": "BilFlax2020WheelFront0023" },
+					{ "time": 1.4667, "name": "BilFlax2020WheelFront0024" },
+					{ "time": 1.5, "name": "BilFlax2020WheelFront0025" },
+					{ "time": 1.5333, "name": "BilFlax2020WheelFront0026" },
+					{ "time": 1.5667, "name": "BilFlax2020WheelFront0027" },
+					{ "time": 1.6, "name": "BilFlax2020WheelFront0028" },
+					{ "time": 1.6333, "name": "BilFlax2020WheelFront0029" },
+					{ "time": 1.6667, "name": "BilFlax2020WheelFront0030" },
+					{ "time": 1.7, "name": "BilFlax2020WheelFront0031" },
+					{ "time": 1.7333, "name": "BilFlax2020WheelFront0032" },
+					{ "time": 1.7667, "name": "BilFlax2020WheelFront0033" },
+					{ "time": 1.8, "name": "BilFlax2020WheelFront0034" },
+					{ "time": 1.8333, "name": "BilFlax2020WheelFront0035" },
+					{ "time": 1.8667, "name": "BilFlax2020WheelFront0036" },
+					{ "time": 1.9, "name": "BilFlax2020WheelFront0037" },
+					{ "time": 1.9333, "name": "BilFlax2020WheelFront0038" },
+					{ "time": 1.9667, "name": "BilFlax2020WheelFront0039" },
+					{ "time": 2, "name": "BilFlax2020WheelFront0040" },
+					{ "time": 2.0333, "name": "BilFlax2020WheelFront0041" },
+					{ "time": 2.0667, "name": "BilFlax2020WheelFront0042" },
+					{ "time": 2.1, "name": "BilFlax2020WheelFront0043" },
+					{ "time": 2.1333, "name": "BilFlax2020WheelFront0044" },
+					{ "time": 2.1667, "name": "BilFlax2020WheelFront0045" },
+					{ "time": 2.2, "name": "BilFlax2020WheelFront0046" },
+					{ "time": 2.2333, "name": "BilFlax2020WheelFront0047" },
+					{ "time": 2.2667, "name": "BilFlax2020WheelFront0048" },
+					{ "time": 2.3, "name": "BilFlax2020WheelFront0049" },
+					{ "time": 2.3333, "name": "BilFlax2020WheelFront0050" },
+					{ "time": 2.3667, "name": "BilFlax2020WheelFront0051" },
+					{ "time": 2.4, "name": "BilFlax2020WheelFront0052" },
+					{ "time": 2.4333, "name": "BilFlax2020WheelFront0053" },
+					{ "time": 2.4667, "name": "BilFlax2020WheelFront0054" },
+					{ "time": 2.5, "name": "BilFlax2020WheelFront0055" },
+					{ "time": 2.5333, "name": "BilFlax2020WheelFront0056" },
+					{ "time": 2.5667, "name": "BilFlax2020WheelFront0057" },
+					{ "time": 2.6, "name": "BilFlax2020WheelFront0058" },
+					{ "time": 2.6333, "name": "BilFlax2020WheelFront0059" },
+					{ "time": 2.6667, "name": "BilFlax2020WheelFront0060" }
+				]
+			},
+			"BilFlax2020WheelRear": {
+				"attachment": [
+					{ "time": 0.6667, "name": "BilFlax2020WheelRear0001" },
+					{ "time": 0.7333, "name": "BilFlax2020WheelRear0002" },
+					{ "time": 0.7667, "name": "BilFlax2020WheelRear0003" },
+					{ "time": 0.8, "name": "BilFlax2020WheelRear0004" },
+					{ "time": 0.8333, "name": "BilFlax2020WheelRear0005" },
+					{ "time": 0.8667, "name": "BilFlax2020WheelRear0006" },
+					{ "time": 0.9, "name": "BilFlax2020WheelRear0007" },
+					{ "time": 0.9333, "name": "BilFlax2020WheelRear0008" },
+					{ "time": 0.9667, "name": "BilFlax2020WheelRear0009" },
+					{ "time": 1, "name": "BilFlax2020WheelRear0010" },
+					{ "time": 1.0333, "name": "BilFlax2020WheelRear0011" },
+					{ "time": 1.0667, "name": "BilFlax2020WheelRear0012" },
+					{ "time": 1.1, "name": "BilFlax2020WheelRear0013" },
+					{ "time": 1.1333, "name": "BilFlax2020WheelRear0014" },
+					{ "time": 1.1667, "name": "BilFlax2020WheelRear0015" },
+					{ "time": 1.2, "name": "BilFlax2020WheelRear0016" },
+					{ "time": 1.2333, "name": "BilFlax2020WheelRear0017" },
+					{ "time": 1.2667, "name": "BilFlax2020WheelRear0018" },
+					{ "time": 1.3, "name": "BilFlax2020WheelRear0019" },
+					{ "time": 1.3333, "name": "BilFlax2020WheelRear0020" },
+					{ "time": 1.3667, "name": "BilFlax2020WheelRear0021" },
+					{ "time": 1.4, "name": "BilFlax2020WheelRear0022" },
+					{ "time": 1.4333, "name": "BilFlax2020WheelRear0023" },
+					{ "time": 1.4667, "name": "BilFlax2020WheelRear0024" },
+					{ "time": 1.5, "name": "BilFlax2020WheelRear0025" },
+					{ "time": 1.5333, "name": "BilFlax2020WheelRear0026" },
+					{ "time": 1.5667, "name": "BilFlax2020WheelRear0027" },
+					{ "time": 1.6, "name": "BilFlax2020WheelRear0028" },
+					{ "time": 1.6333, "name": "BilFlax2020WheelRear0029" },
+					{ "time": 1.6667, "name": "BilFlax2020WheelRear0030" },
+					{ "time": 1.7, "name": "BilFlax2020WheelRear0031" },
+					{ "time": 1.7333, "name": "BilFlax2020WheelRear0032" },
+					{ "time": 1.7667, "name": "BilFlax2020WheelRear0033" },
+					{ "time": 1.8, "name": "BilFlax2020WheelRear0034" },
+					{ "time": 1.8333, "name": "BilFlax2020WheelRear0035" },
+					{ "time": 1.8667, "name": "BilFlax2020WheelRear0036" },
+					{ "time": 1.9, "name": "BilFlax2020WheelRear0037" },
+					{ "time": 1.9333, "name": "BilFlax2020WheelRear0038" },
+					{ "time": 1.9667, "name": "BilFlax2020WheelRear0039" },
+					{ "time": 2, "name": "BilFlax2020WheelRear0040" },
+					{ "time": 2.0333, "name": "BilFlax2020WheelRear0041" },
+					{ "time": 2.0667, "name": "BilFlax2020WheelRear0042" },
+					{ "time": 2.1, "name": "BilFlax2020WheelRear0043" },
+					{ "time": 2.1333, "name": "BilFlax2020WheelRear0044" },
+					{ "time": 2.1667, "name": "BilFlax2020WheelRear0045" },
+					{ "time": 2.2, "name": "BilFlax2020WheelRear0046" },
+					{ "time": 2.2333, "name": "BilFlax2020WheelRear0047" },
+					{ "time": 2.2667, "name": "BilFlax2020WheelRear0048" },
+					{ "time": 2.3, "name": "BilFlax2020WheelRear0049" },
+					{ "time": 2.3333, "name": "BilFlax2020WheelRear0050" },
+					{ "time": 2.3667, "name": "BilFlax2020WheelRear0051" },
+					{ "time": 2.4, "name": "BilFlax2020WheelRear0052" },
+					{ "time": 2.4333, "name": "BilFlax2020WheelRear0053" },
+					{ "time": 2.4667, "name": "BilFlax2020WheelRear0054" },
+					{ "time": 2.5, "name": "BilFlax2020WheelRear0055" },
+					{ "time": 2.5333, "name": "BilFlax2020WheelRear0056" },
+					{ "time": 2.5667, "name": "BilFlax2020WheelRear0057" },
+					{ "time": 2.6, "name": "BilFlax2020WheelRear0058" },
+					{ "time": 2.6333, "name": "BilFlax2020WheelRear0059" },
+					{ "time": 2.6667, "name": "BilFlax2020WheelRear0060" }
+				]
+			},
+			"GameTitle": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 1.6667, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil1": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil2": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil3": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil4": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil5": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil6": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil7": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil8": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"MainGameScratchFoil9": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"PriceDiamond": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"PriceText": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			},
+			"PurchaseGameLandscape": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffff00" }
+				]
+			},
+			"bonusPanelClosed": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"bonusTitleClosed": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"buttonBase": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"skrapHerBonusTextClosed": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.3333, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			},
+			"skrapHerMainGameText": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2, "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"BilFlax2020WheelRear": {
+				"translate": [
+					{ "x": 1290.04, "y": 53.83 },
+					{ "time": 0.6667, "x": 1290.06, "y": 53.83 },
+					{ "time": 0.7, "x": 1255.9, "y": 52.94 },
+					{ "time": 0.7333, "x": 1223.44, "y": 52.04 },
+					{ "time": 0.7667, "x": 1188.93, "y": 51.14 },
+					{ "time": 0.8, "x": 1155.31, "y": 50.24 },
+					{ "time": 0.8333, "x": 1123.43, "y": 49.35 },
+					{ "time": 0.8667, "x": 1092.06, "y": 48.45 },
+					{ "time": 0.9, "x": 1059.61, "y": 46.13 },
+					{ "time": 0.9333, "x": 1028.38, "y": 44.42 },
+					{ "time": 0.9667, "x": 997.46, "y": 43.31 },
+					{ "time": 1, "x": 967.54, "y": 42.41 },
+					{ "time": 1.0333, "x": 938.31, "y": 40.9 },
+					{ "time": 1.0667, "x": 908.66, "y": 39.39 },
+					{ "time": 1.1, "x": 878.45, "y": 37.88 },
+					{ "time": 1.1333, "x": 848.63, "y": 36.37 },
+					{ "time": 1.1667, "x": 819.91, "y": 34.86 },
+					{ "time": 1.2, "x": 792.37, "y": 33.35 },
+					{ "time": 1.2333, "x": 764.75, "y": 33.18 },
+					{ "time": 1.2667, "x": 737.31, "y": 32.45 },
+					{ "time": 1.3, "x": 709.4, "y": 31.12 },
+					{ "time": 1.3333, "x": 681.93, "y": 29.79 },
+					{ "time": 1.3667, "x": 653.93, "y": 28.46 },
+					{ "time": 1.4, "x": 628.62, "y": 27.12 },
+					{ "time": 1.4333, "x": 603.2, "y": 26.11 },
+					{ "time": 1.4667, "x": 577.99, "y": 25.44 },
+					{ "time": 1.5, "x": 552.96, "y": 24.16 },
+					{ "time": 1.5333, "x": 527.79, "y": 22.89 },
+					{ "time": 1.5667, "x": 502.76, "y": 21.61 },
+					{ "time": 1.6, "x": 477.57, "y": 20.97 },
+					{ "time": 1.6333, "x": 453.13, "y": 20.35 },
+					{ "time": 1.6667, "x": 431.06, "y": 19.77 },
+					{ "time": 1.7, "x": 408.91, "y": 18.57 },
+					{ "time": 1.7333, "x": 387.27, "y": 18.01 },
+					{ "time": 1.7667, "x": 365.21, "y": 16.84 },
+					{ "time": 1.8, "x": 343.34, "y": 15.67 },
+					{ "time": 1.8333, "x": 321.32, "y": 14.5 },
+					{ "time": 1.8667, "x": 299.46, "y": 13.64 },
+					{ "time": 1.9, "x": 278.07, "y": 13.11 },
+					{ "time": 1.9333, "x": 259.97, "y": 12.28 },
+					{ "time": 1.9667, "x": 242.12, "y": 11.46 },
+					{ "time": 2, "x": 223.88, "y": 10.34 },
+					{ "time": 2.0333, "x": 205.23, "y": 9.85 },
+					{ "time": 2.0667, "x": 187.4, "y": 9.37 },
+					{ "time": 2.1, "x": 169.45, "y": 8.6 },
+					{ "time": 2.1333, "x": 151.39, "y": 7.52 },
+					{ "time": 2.1667, "x": 133.49, "y": 7.07 },
+					{ "time": 2.2, "x": 122.01, "y": 6.63 },
+					{ "time": 2.2333, "x": 108.67, "y": 5.58 },
+					{ "time": 2.2667, "x": 95.89, "y": 5.16 },
+					{ "time": 2.3, "x": 82.13, "y": 4.75 },
+					{ "time": 2.3333, "x": 69.53, "y": 4.36 },
+					{ "time": 2.3667, "x": 56.56, "y": 3.98 },
+					{ "time": 2.4, "x": 42.56, "y": 3.92 },
+					{ "time": 2.4333, "x": 33.41, "y": 3.31 },
+					{ "time": 2.4667, "x": 27.34, "y": 3 },
+					{ "time": 2.5, "x": 20.67, "y": 3 },
+					{ "time": 2.5333, "x": 14.01, "y": 2.69 },
+					{ "time": 2.5667, "x": 8.26, "y": 1.78 },
+					{ "time": 2.6, "x": 1.27, "y": 1.79 },
+					{ "time": 2.6333, "x": -3.91, "y": 0.9 },
+					{ "time": 2.6667, "x": -10.34 }
+				]
+			},
+			"carBase": {
+				"translate": [
+					{ "x": 1302.02, "y": 54.35 },
+					{
+						"time": 0.6667,
+						"x": 1302,
+						"y": 54.35,
+						"curve": 0.013,
+						"c2": 0.03,
+						"c3": 0.603,
+						"c4": 0.97
+					},
+					{ "time": 2.6667 }
+				]
+			},
+			"BilFlax2020WheelFront": {
+				"translate": [
+					{ "x": 1300.54, "y": 54.63 },
+					{ "time": 0.6667, "x": 1300.51, "y": 54.63 },
+					{ "time": 0.7, "x": 1265.51, "y": 53.72 },
+					{ "time": 0.7333, "x": 1231.38, "y": 52.81 },
+					{ "time": 0.7667, "x": 1198.04, "y": 51.89 },
+					{ "time": 0.8, "x": 1164.18, "y": 50.98 },
+					{ "time": 0.8333, "x": 1131.38, "y": 50.07 },
+					{ "time": 0.8667, "x": 1100.88, "y": 49.16 },
+					{ "time": 0.9, "x": 1069.08, "y": 48.25 },
+					{ "time": 0.9333, "x": 1036.98, "y": 46.6 },
+					{ "time": 0.9667, "x": 1005.54, "y": 44.94 },
+					{ "time": 1, "x": 975.26, "y": 44.03 },
+					{ "time": 1.0333, "x": 947.19, "y": 42.38 },
+					{ "time": 1.0667, "x": 917.52, "y": 40.72 },
+					{ "time": 1.1, "x": 887.16, "y": 39.87 },
+					{ "time": 1.1333, "x": 856.6, "y": 39.02 },
+					{ "time": 1.1667, "x": 828.34, "y": 38.18 },
+					{ "time": 1.2, "x": 800.81, "y": 37.33 },
+					{ "time": 1.2333, "x": 772.1, "y": 34.24 },
+					{ "time": 1.2667, "x": 744.6, "y": 33.45 },
+					{ "time": 1.3, "x": 716.35, "y": 32.65 },
+					{ "time": 1.3333, "x": 688.58, "y": 31.85 },
+					{ "time": 1.3667, "x": 662.16, "y": 31.06 },
+					{ "time": 1.4, "x": 634.83, "y": 30.26 },
+					{ "time": 1.4333, "x": 611.33, "y": 28.72 },
+					{ "time": 1.4667, "x": 585.8, "y": 27.94 },
+					{ "time": 1.5, "x": 559.49, "y": 24.19 },
+					{ "time": 1.5333, "x": 534.49, "y": 23.5 },
+					{ "time": 1.5667, "x": 510.43, "y": 22.81 },
+					{ "time": 1.6, "x": 485.89, "y": 22.12 },
+					{ "time": 1.6333, "x": 460.99, "y": 21.42 },
+					{ "time": 1.6667, "x": 439.3, "y": 20.73 },
+					{ "time": 1.7, "x": 416.45, "y": 20.04 },
+					{ "time": 1.7333, "x": 393.87, "y": 19.35 },
+					{ "time": 1.7667, "x": 373.08, "y": 18.66 },
+					{ "time": 1.8, "x": 351.05, "y": 17.97 },
+					{ "time": 1.8333, "x": 327.99, "y": 17.28 },
+					{ "time": 1.8667, "x": 307.06, "y": 16.59 },
+					{ "time": 1.9, "x": 284.83, "y": 15.9 },
+					{ "time": 1.9333, "x": 266.73, "y": 15.2 },
+					{ "time": 1.9667, "x": 248.93, "y": 14.51 },
+					{ "time": 2, "x": 230.98, "y": 13.82 },
+					{ "time": 2.0333, "x": 213.52, "y": 13.13 },
+					{ "time": 2.0667, "x": 193.5, "y": 12.44 },
+					{ "time": 2.1, "x": 176.32, "y": 11 },
+					{ "time": 2.1333, "x": 159.14, "y": 10.36 },
+					{ "time": 2.1667, "x": 142.12, "y": 9.71 },
+					{ "time": 2.2, "x": 128.64, "y": 9.06 },
+					{ "time": 2.2333, "x": 116.89, "y": 8.41 },
+					{ "time": 2.2667, "x": 102.67, "y": 7.77 },
+					{ "time": 2.3, "x": 89.56, "y": 7.12 },
+					{ "time": 2.3333, "x": 76.72, "y": 6.47 },
+					{ "time": 2.3667, "x": 63.73, "y": 5.83 },
+					{ "time": 2.4, "x": 50.93, "y": 5.18 },
+					{ "time": 2.4333, "x": 39.92, "y": 4.53 },
+					{ "time": 2.4667, "x": 33.93, "y": 3.88 },
+					{ "time": 2.5, "x": 28.53, "y": 3.24 },
+					{ "time": 2.5333, "x": 21.78, "y": 2.59 },
+					{ "time": 2.5667, "x": 15.71, "y": 1.94 },
+					{ "time": 2.6, "x": 9.64, "y": 1.29 },
+					{ "time": 2.6333, "x": 3.57, "y": 0.65 },
+					{ "time": 2.6667, "x": -1.83 }
+				]
+			},
+			"PurchaseGame": {
+				"translate": [
+					{},
+					{ "time": 0.6667, "y": 374.13 }
+				]
+			},
+			"GameTitle": {
+				"translate": [
+					{ "y": 145.15 },
+					{ "time": 1.6667, "y": 145.15 },
+					{ "time": 2.3333 }
+				]
+			},
+			"MainGameScratchFoil2": {
+				"translate": [
+					{ "y": -80, "curve": "stepped" },
+					{ "time": 2, "y": -80 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil4": {
+				"translate": [
+					{ "x": 142, "curve": "stepped" },
+					{ "time": 2, "x": 142 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil6": {
+				"translate": [
+					{ "x": -141, "curve": "stepped" },
+					{ "time": 2, "x": -141 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil8": {
+				"translate": [
+					{ "y": 79, "curve": "stepped" },
+					{ "time": 2, "y": 79 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil1": {
+				"translate": [
+					{ "x": 142, "y": -80, "curve": "stepped" },
+					{ "time": 2, "x": 142, "y": -80 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil3": {
+				"translate": [
+					{ "x": -141, "y": -80, "curve": "stepped" },
+					{ "time": 2, "x": -141, "y": -80 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil7": {
+				"translate": [
+					{ "x": 142, "y": 79, "curve": "stepped" },
+					{ "time": 2, "x": 142, "y": 79 },
+					{ "time": 2.6667 }
+				]
+			},
+			"MainGameScratchFoil9": {
+				"translate": [
+					{ "x": -141, "y": 79, "curve": "stepped" },
+					{ "time": 2, "x": -141, "y": 79 },
+					{ "time": 2.6667 }
+				]
+			},
+			"bonusPanelClosed": {
+				"translate": [
+					{ "x": -356.67, "curve": "stepped" },
+					{ "time": 1.3333, "x": -356.67, "curve": 0, "c3": 0.231 },
+					{ "time": 2.6667 }
+				]
+			},
+			"bonusTitleClosed": {
+				"translate": [
+					{ "x": -366.43 },
+					{ "time": 1.3333, "x": -366.43, "curve": 0.001, "c3": 0.231 },
+					{ "time": 2.6667 }
+				]
+			},
+			"skrapHerBonusTextClosed": {
+				"translate": [
+					{ "x": -358.59, "curve": "stepped" },
+					{ "time": 1.3333, "x": -358.59, "curve": 0.001, "c3": 0.231 },
+					{ "time": 2.6667 }
+				]
+			},
+			"buttonBase": {
+				"scale": [
+					{ "x": 0.5, "y": 0.5, "curve": "stepped" },
+					{ "time": 2, "x": 0.5, "y": 0.5 },
+					{ "time": 2.6667 }
+				]
+			}
+		}
+	}
+}
+}

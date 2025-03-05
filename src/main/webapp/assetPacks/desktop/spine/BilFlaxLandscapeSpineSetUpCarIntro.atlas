@@ -1,0 +1,1994 @@
+
+BilFlaxLandscapeSpineSetUpCarIntro.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+imagesColour1/BackdropBaseColourLandscape
+  rotate: false
+  xy: 2, 1438
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+imagesColour1/BackdropDiamondLandscape
+  rotate: true
+  xy: 2, 826
+  size: 610, 600
+  orig: 610, 600
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0001
+  rotate: true
+  xy: 391, 572
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0060
+  rotate: true
+  xy: 391, 572
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0001
+  rotate: true
+  xy: 391, 572
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0060
+  rotate: true
+  xy: 391, 572
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0002
+  rotate: true
+  xy: 391, 481
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0002
+  rotate: true
+  xy: 391, 481
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0003
+  rotate: true
+  xy: 2, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0003
+  rotate: true
+  xy: 2, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0004
+  rotate: true
+  xy: 349, 118
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0004
+  rotate: true
+  xy: 349, 118
+  size: 88, 127
+  orig: 88, 127
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0005
+  rotate: true
+  xy: 662, 263
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0005
+  rotate: true
+  xy: 662, 263
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0006
+  rotate: false
+  xy: 478, 73
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0006
+  rotate: false
+  xy: 478, 73
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0007
+  rotate: false
+  xy: 790, 225
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0007
+  rotate: false
+  xy: 790, 225
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0008
+  rotate: true
+  xy: 662, 173
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0008
+  rotate: true
+  xy: 662, 173
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0009
+  rotate: false
+  xy: 880, 201
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0009
+  rotate: false
+  xy: 880, 201
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0010
+  rotate: false
+  xy: 790, 97
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0010
+  rotate: false
+  xy: 790, 97
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0011
+  rotate: true
+  xy: 662, 83
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0011
+  rotate: true
+  xy: 662, 83
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0012
+  rotate: false
+  xy: 568, 41
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0012
+  rotate: false
+  xy: 568, 41
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0013
+  rotate: false
+  xy: 1302, 23
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0013
+  rotate: false
+  xy: 1302, 23
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0014
+  rotate: false
+  xy: 1210, 620
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0014
+  rotate: false
+  xy: 1210, 620
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0015
+  rotate: true
+  xy: 866, 7
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0015
+  rotate: true
+  xy: 866, 7
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0016
+  rotate: true
+  xy: 130, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0016
+  rotate: true
+  xy: 130, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0017
+  rotate: true
+  xy: 258, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0017
+  rotate: true
+  xy: 258, 434
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0018
+  rotate: true
+  xy: 1226, 241
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0018
+  rotate: true
+  xy: 1226, 241
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0019
+  rotate: true
+  xy: 1264, 150
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0019
+  rotate: true
+  xy: 1264, 150
+  size: 89, 124
+  orig: 89, 124
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0020
+  rotate: false
+  xy: 93, 34
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0020
+  rotate: false
+  xy: 93, 34
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0021
+  rotate: true
+  xy: 184, 70
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0021
+  rotate: true
+  xy: 184, 70
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0022
+  rotate: true
+  xy: 880, 111
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0022
+  rotate: true
+  xy: 880, 111
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0023
+  rotate: true
+  xy: 386, 390
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0023
+  rotate: true
+  xy: 386, 390
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0024
+  rotate: true
+  xy: 2, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0024
+  rotate: true
+  xy: 2, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0025
+  rotate: true
+  xy: 130, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0025
+  rotate: true
+  xy: 130, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0026
+  rotate: true
+  xy: 258, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0026
+  rotate: true
+  xy: 258, 343
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0027
+  rotate: false
+  xy: 514, 329
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0027
+  rotate: false
+  xy: 514, 329
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0028
+  rotate: false
+  xy: 1300, 620
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0028
+  rotate: false
+  xy: 1300, 620
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0029
+  rotate: false
+  xy: 1388, 798
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0029
+  rotate: false
+  xy: 1388, 798
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0030
+  rotate: true
+  xy: 970, 220
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0030
+  rotate: true
+  xy: 970, 220
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0031
+  rotate: true
+  xy: 994, 21
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0031
+  rotate: true
+  xy: 994, 21
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0032
+  rotate: true
+  xy: 1008, 130
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0032
+  rotate: true
+  xy: 1008, 130
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0033
+  rotate: false
+  xy: 1219, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0033
+  rotate: false
+  xy: 1219, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0034
+  rotate: true
+  xy: 1098, 220
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0034
+  rotate: true
+  xy: 1098, 220
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0035
+  rotate: true
+  xy: 679, 444
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0035
+  rotate: true
+  xy: 679, 444
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0036
+  rotate: true
+  xy: 806, 444
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0036
+  rotate: true
+  xy: 806, 444
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0037
+  rotate: true
+  xy: 662, 353
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0037
+  rotate: true
+  xy: 662, 353
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0038
+  rotate: true
+  xy: 789, 353
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0038
+  rotate: true
+  xy: 789, 353
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0039
+  rotate: false
+  xy: 1122, 2
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0039
+  rotate: false
+  xy: 1122, 2
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0040
+  rotate: true
+  xy: 386, 299
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0040
+  rotate: true
+  xy: 386, 299
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0041
+  rotate: false
+  xy: 2, 215
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0041
+  rotate: false
+  xy: 2, 215
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0042
+  rotate: true
+  xy: 93, 252
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0042
+  rotate: true
+  xy: 93, 252
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0043
+  rotate: true
+  xy: 221, 252
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0043
+  rotate: true
+  xy: 221, 252
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0044
+  rotate: false
+  xy: 514, 201
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0044
+  rotate: false
+  xy: 514, 201
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0045
+  rotate: true
+  xy: 349, 208
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0045
+  rotate: true
+  xy: 349, 208
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0046
+  rotate: true
+  xy: 93, 161
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0046
+  rotate: true
+  xy: 93, 161
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0047
+  rotate: true
+  xy: 1257, 347
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0047
+  rotate: true
+  xy: 1257, 347
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0048
+  rotate: true
+  xy: 1352, 257
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0048
+  rotate: true
+  xy: 1352, 257
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0049
+  rotate: true
+  xy: 1390, 167
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0049
+  rotate: true
+  xy: 1390, 167
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0050
+  rotate: false
+  xy: 1309, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0050
+  rotate: false
+  xy: 1309, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0051
+  rotate: true
+  xy: 1384, 347
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0051
+  rotate: true
+  xy: 1384, 347
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0052
+  rotate: true
+  xy: 1479, 257
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0052
+  rotate: true
+  xy: 1479, 257
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0053
+  rotate: false
+  xy: 1399, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0053
+  rotate: false
+  xy: 1399, 437
+  size: 88, 125
+  orig: 88, 125
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0054
+  rotate: true
+  xy: 1136, 130
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0054
+  rotate: true
+  xy: 1136, 130
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0055
+  rotate: false
+  xy: 1212, 2
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0055
+  rotate: false
+  xy: 1212, 2
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0056
+  rotate: false
+  xy: 1129, 422
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0056
+  rotate: false
+  xy: 1129, 422
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0057
+  rotate: false
+  xy: 2, 87
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0057
+  rotate: false
+  xy: 2, 87
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0058
+  rotate: true
+  xy: 221, 161
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0058
+  rotate: true
+  xy: 221, 161
+  size: 89, 126
+  orig: 89, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelFront0059
+  rotate: true
+  xy: 1129, 332
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelFront0059
+  rotate: true
+  xy: 1129, 332
+  size: 88, 126
+  orig: 88, 126
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0001
+  rotate: true
+  xy: 1314, 564
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0060
+  rotate: true
+  xy: 1314, 564
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0001
+  rotate: true
+  xy: 1314, 564
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0060
+  rotate: true
+  xy: 1314, 564
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0002
+  rotate: true
+  xy: 1506, 111
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0002
+  rotate: true
+  xy: 1506, 111
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0003
+  rotate: true
+  xy: 1517, 201
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0003
+  rotate: true
+  xy: 1517, 201
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0004
+  rotate: false
+  xy: 1596, 8
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0004
+  rotate: false
+  xy: 1596, 8
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0005
+  rotate: true
+  xy: 1609, 145
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0005
+  rotate: true
+  xy: 1609, 145
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0006
+  rotate: false
+  xy: 1652, 42
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0006
+  rotate: false
+  xy: 1652, 42
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0007
+  rotate: false
+  xy: 1708, 42
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0007
+  rotate: false
+  xy: 1708, 42
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0008
+  rotate: false
+  xy: 1390, 695
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0008
+  rotate: false
+  xy: 1390, 695
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0009
+  rotate: true
+  xy: 1390, 639
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0009
+  rotate: true
+  xy: 1390, 639
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0010
+  rotate: true
+  xy: 1417, 583
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0010
+  rotate: true
+  xy: 1417, 583
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0011
+  rotate: false
+  xy: 1446, 695
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0011
+  rotate: false
+  xy: 1446, 695
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0012
+  rotate: true
+  xy: 1493, 639
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0012
+  rotate: true
+  xy: 1493, 639
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0013
+  rotate: false
+  xy: 1478, 822
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0013
+  rotate: false
+  xy: 1478, 822
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0014
+  rotate: false
+  xy: 1502, 719
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0014
+  rotate: false
+  xy: 1502, 719
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0015
+  rotate: false
+  xy: 1534, 822
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0015
+  rotate: false
+  xy: 1534, 822
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0016
+  rotate: false
+  xy: 1558, 719
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0016
+  rotate: false
+  xy: 1558, 719
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0017
+  rotate: false
+  xy: 1876, 84
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0017
+  rotate: false
+  xy: 1876, 84
+  size: 54, 100
+  orig: 54, 100
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0018
+  rotate: false
+  xy: 1392, 65
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0018
+  rotate: false
+  xy: 1392, 65
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0019
+  rotate: true
+  xy: 1392, 8
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0019
+  rotate: true
+  xy: 1392, 8
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0020
+  rotate: false
+  xy: 519, 560
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0020
+  rotate: false
+  xy: 519, 560
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0021
+  rotate: false
+  xy: 519, 457
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0021
+  rotate: false
+  xy: 519, 457
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0022
+  rotate: false
+  xy: 1489, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0022
+  rotate: false
+  xy: 1489, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0023
+  rotate: true
+  xy: 576, 478
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0023
+  rotate: true
+  xy: 576, 478
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0024
+  rotate: true
+  xy: 1520, 583
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0024
+  rotate: true
+  xy: 1520, 583
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0025
+  rotate: true
+  xy: 1596, 663
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0025
+  rotate: true
+  xy: 1596, 663
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0026
+  rotate: true
+  xy: 184, 13
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0026
+  rotate: true
+  xy: 184, 13
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0027
+  rotate: false
+  xy: 1511, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0027
+  rotate: false
+  xy: 1511, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0028
+  rotate: false
+  xy: 1545, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0028
+  rotate: false
+  xy: 1545, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0029
+  rotate: false
+  xy: 1567, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0029
+  rotate: false
+  xy: 1567, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0030
+  rotate: true
+  xy: 447, 17
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0030
+  rotate: true
+  xy: 447, 17
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0031
+  rotate: false
+  xy: 1601, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0031
+  rotate: false
+  xy: 1601, 480
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0032
+  rotate: true
+  xy: 1623, 607
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0032
+  rotate: true
+  xy: 1623, 607
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0033
+  rotate: false
+  xy: 1606, 274
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0033
+  rotate: false
+  xy: 1606, 274
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0034
+  rotate: true
+  xy: 1620, 218
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0034
+  rotate: true
+  xy: 1620, 218
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0035
+  rotate: true
+  xy: 287, 13
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0035
+  rotate: true
+  xy: 287, 13
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0036
+  rotate: false
+  xy: 1449, 65
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0036
+  rotate: false
+  xy: 1449, 65
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0037
+  rotate: true
+  xy: 1494, 8
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0037
+  rotate: true
+  xy: 1494, 8
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0038
+  rotate: false
+  xy: 605, 375
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0038
+  rotate: false
+  xy: 605, 375
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0039
+  rotate: false
+  xy: 933, 432
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0039
+  rotate: false
+  xy: 933, 432
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0040
+  rotate: false
+  xy: 605, 272
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0040
+  rotate: false
+  xy: 605, 272
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0041
+  rotate: true
+  xy: 1712, 162
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0041
+  rotate: true
+  xy: 1712, 162
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0042
+  rotate: false
+  xy: 1623, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0042
+  rotate: false
+  xy: 1623, 377
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0043
+  rotate: false
+  xy: 1662, 274
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0043
+  rotate: false
+  xy: 1662, 274
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0044
+  rotate: false
+  xy: 916, 329
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0044
+  rotate: false
+  xy: 916, 329
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0045
+  rotate: false
+  xy: 605, 169
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0045
+  rotate: false
+  xy: 605, 169
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0046
+  rotate: false
+  xy: 390, 15
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0046
+  rotate: false
+  xy: 390, 15
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0047
+  rotate: false
+  xy: 1764, 59
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0047
+  rotate: false
+  xy: 1764, 59
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0048
+  rotate: true
+  xy: 1764, 3
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0048
+  rotate: true
+  xy: 1764, 3
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0049
+  rotate: false
+  xy: 1657, 504
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0049
+  rotate: false
+  xy: 1657, 504
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0050
+  rotate: false
+  xy: 1679, 401
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0050
+  rotate: false
+  xy: 1679, 401
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0051
+  rotate: false
+  xy: 1713, 504
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0051
+  rotate: false
+  xy: 1713, 504
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0052
+  rotate: false
+  xy: 1718, 298
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0052
+  rotate: false
+  xy: 1718, 298
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0053
+  rotate: true
+  xy: 1723, 242
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0053
+  rotate: true
+  xy: 1723, 242
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0054
+  rotate: true
+  xy: 658, 27
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0054
+  rotate: true
+  xy: 658, 27
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0055
+  rotate: true
+  xy: 762, 27
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0055
+  rotate: true
+  xy: 762, 27
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0056
+  rotate: true
+  xy: 1210, 564
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0056
+  rotate: true
+  xy: 1210, 564
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0057
+  rotate: true
+  xy: 1815, 186
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0057
+  rotate: true
+  xy: 1815, 186
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0058
+  rotate: false
+  xy: 1820, 83
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0058
+  rotate: false
+  xy: 1820, 83
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/BilFlax2020WheelRear0059
+  rotate: true
+  xy: 1867, 27
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour2/BilFlax2020WheelRear0059
+  rotate: true
+  xy: 1867, 27
+  size: 54, 101
+  orig: 54, 101
+  offset: 0, 0
+  index: -1
+imagesColour1/GameTitle
+  rotate: true
+  xy: 1388, 925
+  size: 511, 149
+  orig: 511, 149
+  offset: 0, 0
+  index: -1
+imagesColour2/GameTitle
+  rotate: true
+  xy: 1388, 925
+  size: 511, 149
+  orig: 511, 149
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil1
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil2
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil3
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil4
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil5
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil6
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil7
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil8
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/MainGameScratchFoil9
+  rotate: true
+  xy: 993, 310
+  size: 260, 134
+  orig: 260, 134
+  offset: 0, 0
+  index: -1
+imagesColour1/PriceDiamond
+  rotate: true
+  xy: 391, 663
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+imagesColour2/PriceDiamond
+  rotate: true
+  xy: 391, 663
+  size: 161, 162
+  orig: 161, 162
+  offset: 0, 0
+  index: -1
+imagesColour1/PriceText
+  rotate: false
+  xy: 2005, 2037
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+imagesColour1/buttonText
+  rotate: false
+  xy: 2005, 2037
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+imagesColour2/PriceText
+  rotate: false
+  xy: 2005, 2037
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+imagesColour2/buttonText
+  rotate: false
+  xy: 2005, 2037
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+imagesColour1/PurchaseGameLandscape
+  rotate: false
+  xy: 604, 535
+  size: 387, 299
+  orig: 387, 299
+  offset: 0, 0
+  index: -1
+imagesColour1/bonusPanelClosed
+  rotate: true
+  xy: 1216, 747
+  size: 689, 170
+  orig: 689, 170
+  offset: 0, 0
+  index: -1
+imagesColour2/bonusPanelClosed
+  rotate: true
+  xy: 1216, 747
+  size: 689, 170
+  orig: 689, 170
+  offset: 0, 0
+  index: -1
+imagesColour1/bonusTitleClosed
+  rotate: true
+  xy: 1539, 1200
+  size: 236, 57
+  orig: 236, 57
+  offset: 0, 0
+  index: -1
+imagesColour2/bonusTitleClosed
+  rotate: true
+  xy: 1539, 1200
+  size: 236, 57
+  orig: 236, 57
+  offset: 0, 0
+  index: -1
+imagesColour1/carBase
+  rotate: true
+  xy: 1606, 1227
+  size: 811, 397
+  orig: 811, 397
+  offset: 0, 0
+  index: -1
+imagesColour2/carBase
+  rotate: true
+  xy: 1606, 1227
+  size: 811, 397
+  orig: 811, 397
+  offset: 0, 0
+  index: -1
+imagesColour2/BackdropBaseColourLandscape
+  rotate: false
+  xy: 804, 1438
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+imagesColour2/BackdropDiamondLandscape
+  rotate: false
+  xy: 604, 836
+  size: 610, 600
+  orig: 610, 600
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil1
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil2
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil3
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil4
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil5
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil6
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil7
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil8
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/MainGameScratchFoil9
+  rotate: true
+  xy: 993, 572
+  size: 262, 134
+  orig: 262, 134
+  offset: 0, 0
+  index: -1
+imagesColour2/PurchaseGameLandscape
+  rotate: false
+  xy: 2, 525
+  size: 387, 299
+  orig: 387, 299
+  offset: 0, 0
+  index: -1
+imagesColour2/logoFlaxWhite
+  rotate: true
+  xy: 1129, 550
+  size: 284, 79
+  orig: 284, 79
+  offset: 0, 0
+  index: -1
+imagesColour1/logoFlaxWhite
+  rotate: true
+  xy: 1129, 550
+  size: 284, 79
+  orig: 284, 79
+  offset: 0, 0
+  index: -1
+imagesColour2/skrapHerBonusTextClosed
+  rotate: false
+  xy: 2, 28
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+imagesColour1/skrapHerBonusTextClosed
+  rotate: false
+  xy: 2, 28
+  size: 79, 57
+  orig: 79, 57
+  offset: 0, 0
+  index: -1
+imagesColour2/skrapHerMainGameText
+  rotate: true
+  xy: 1735, 423
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+imagesColour1/skrapHerMainGameText
+  rotate: true
+  xy: 1735, 423
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1

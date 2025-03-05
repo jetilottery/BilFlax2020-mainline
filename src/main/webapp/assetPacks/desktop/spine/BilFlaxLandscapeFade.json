@@ -1,0 +1,33 @@
+{
+"skeleton": {
+	"hash": "F6DjuFfuQYTGYcw1h/MppIDqYhc",
+	"spine": "3.8.84",
+	"x": -400,
+	"y": -299.5,
+	"width": 800,
+	"height": 600,
+	"images": "./images/",
+	"audio": "./../SpineCarIntro/"
+},
+"bones": [
+	{ "name": "rootCarPopUpFade" },
+	{ "name": "fade", "parent": "rootCarPopUpFade" }
+],
+"slots": [
+	{ "name": "fade", "bone": "fade", "attachment": "BonusFadeLandscape" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"fade": {
+				"BonusFadeLandscape": { "y": 0.5, "width": 800, "height": 600 }
+			}
+		}
+	}
+],
+"animations": {
+	"animationFlare01Intro": {},
+	"animationFlare01Spin": {}
+}
+}

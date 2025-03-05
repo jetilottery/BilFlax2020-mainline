@@ -1,0 +1,51 @@
+{
+"skeleton": {
+	"hash": "G7voYLTyLxeNsfE+xi56GXTnSgo",
+	"spine": "3.8.86",
+	"x": -144,
+	"y": -591,
+	"width": 516,
+	"height": 154,
+	"images": "../MASTERS/SpineMainGameLayout_MASTER/images/",
+	"audio": "/Volumes/creative/Resource su Filer/Art/Game Artwork/Norway_masters/touch_games/iPhone5/Bilflax2020/spineLayout/SpineCarIntro/./../extras"
+},
+"bones": [
+	{ "name": "rootBonus" }
+],
+"slots": [
+	{ "name": "BonusGameBaseResultsLose6", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose6" },
+	{ "name": "BonusGameBaseResultsLose5", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose5" },
+	{ "name": "BonusGameBaseResultsLose4", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose4" },
+	{ "name": "BonusGameBaseResultsLose3", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose3" },
+	{ "name": "BonusGameBaseResultsLose2", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose2" },
+	{ "name": "BonusGameBaseResultsLose1", "bone": "rootBonus", "attachment": "BonusGameBaseResultsLose1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"BonusGameBaseResultsLose1": {
+				"BonusGameBaseResultsLose1": { "x": -72, "y": -474.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose2": {
+				"BonusGameBaseResultsLose2": { "x": 114, "y": -474.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose3": {
+				"BonusGameBaseResultsLose3": { "x": 300, "y": -474.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose4": {
+				"BonusGameBaseResultsLose4": { "x": -72, "y": -553.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose5": {
+				"BonusGameBaseResultsLose5": { "x": 114, "y": -553.5, "width": 144, "height": 75 }
+			},
+			"BonusGameBaseResultsLose6": {
+				"BonusGameBaseResultsLose6": { "x": 300, "y": -553.5, "width": 144, "height": 75 }
+			}
+		}
+	}
+],
+"animations": {
+	"animation": {}
+}
+}

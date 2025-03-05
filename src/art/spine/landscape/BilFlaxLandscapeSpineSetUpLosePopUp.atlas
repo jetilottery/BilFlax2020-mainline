@@ -1,0 +1,41 @@
+
+BilFlaxLandscapeSpineSetUpLosePopUp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PopUpNoWinDiamond
+  rotate: false
+  xy: 2, 185
+  size: 807, 815
+  orig: 807, 815
+  offset: 0, 0
+  index: -1
+PopUpTextBadLuck
+  rotate: false
+  xy: 2, 66
+  size: 445, 117
+  orig: 445, 117
+  offset: 0, 0
+  index: -1
+PopUpTextYouDidntWinThisTime
+  rotate: false
+  xy: 2, 2
+  size: 598, 62
+  orig: 598, 62
+  offset: 0, 0
+  index: -1
+buttonOk
+  rotate: false
+  xy: 602, 182
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+buttonResults
+  rotate: false
+  xy: 602, 182
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

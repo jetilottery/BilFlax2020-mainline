@@ -1,0 +1,48 @@
+
+BilFlaxLandscapeSpineSetUpBonusGamePlayed.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BonusGameBaseResultsLose1
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+BonusGameBaseResultsLose2
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+BonusGameBaseResultsLose3
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+BonusGameBaseResultsLose4
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+BonusGameBaseResultsLose5
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
+BonusGameBaseResultsLose6
+  rotate: false
+  xy: 2, 2
+  size: 144, 75
+  orig: 144, 75
+  offset: 0, 0
+  index: -1
